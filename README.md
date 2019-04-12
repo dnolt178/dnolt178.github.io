@@ -30,7 +30,7 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Ethan McGee</h1>
+        <h1>Dwayne Nolt</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
          <p>I am a freshman at Bob Jones University studying Criminal Justice with a minor in Photography. I work for a security company called Securitas as a reserve officer.</p>
