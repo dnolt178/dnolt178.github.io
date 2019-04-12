@@ -42,7 +42,7 @@ h3 {
          </p>
         
         <h3>EDUCATION</h3>
-        Criminal Justive <br>
+        Criminal Justice <br>
         Bob Jones University
     </div>
            
