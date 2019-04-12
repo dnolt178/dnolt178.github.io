@@ -38,7 +38,7 @@ h3 {
             I enjoy all things outdoors as well as aviation and photography. Also traveling is life.
          </p> 
          <p>
-            I also enjoy eating food...oreos in paricular.a
+            I also enjoy eating food...oreos in paricular.
          </p>
         
         <h3>EDUCATION</h3>
